@@ -1,2 +1,2 @@
 # Code_vita_2017
-Code Vita 2017 programs
+This repositiory contains my code vita 2017 programs. It includes both first and second round programs.
